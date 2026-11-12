@@ -28,7 +28,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM version 1 ===");
+            Console.WriteLine("=== Employee Payroll & Human Resources Management System ===");
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter Employees");
